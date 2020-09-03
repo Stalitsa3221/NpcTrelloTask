@@ -6,3 +6,4 @@
 > 4. Execute SQLS - For Scheme Save Use And Update
 > 5. Change NPC ID on data/scripts/custom/NPCBufferFull and data/scripts/custom/NPCBufferPet
 > 6. Add Scripts.cfg custom/NPCBufferFull/NPCBufferFull.java and custom/NPCBufferPet/NPCBufferPet.java
+> https://i.imgur.com/MnGO2nA.png
